@@ -1,0 +1,7 @@
+Lesson1_Sesson3
+Trình bày Flowchart:
+1- Hình bầu dục: Start
+2- Hình bình hành: Nhập a, b
+3- Hình chữ nhật: Tính a + b
+4- Hình bình hành: In kết quả phép tính tổng a + b
+5- Hình bầu dục: End

@@ -1,0 +1,6 @@
+Lesson1_Sesson6
+Trình bày Flowchart:
+1- Hình bầu dục: Start
+2- Hình bình hành: Nhập a, b
+3- Hình bình hành: In ra x = (-b) / a
+4- Hình bầu dục: End

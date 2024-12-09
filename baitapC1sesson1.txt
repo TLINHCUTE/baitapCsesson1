@@ -1,0 +1,8 @@
+
+Trình bày Flowchart:
+1- Hình bầu dục: Start
+2- Hình bình hành: Nhập a, b
+3- Hình thoi: a > b?
+  +Yes: In "a lớn hơn b"
+  +No: In "b lớn hơn a"
+4- Hình bầu dục: End

@@ -1,0 +1,7 @@
+Lesson1_Sesson7
+Trình bày Flowchart:
+1- Hình bầu dục: Start
+2- Hình bình hành: Nhập a, b
+                  Nhập 1 phép tính: +, -, *, /
+3- Hình bình hành: In ra kết quả: a (phép tính) b
+4- Hình bầu dục: End
